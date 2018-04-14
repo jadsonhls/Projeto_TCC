@@ -34,7 +34,7 @@ div.rele1_ligado {
     height: 206px;
     border: none;
     margin:auto;
-    background: url(https://cdn.rawgit.com/jadsonhls/Projeto_TCC/master/lampada_acesa.jpg) no-repeat left top;
+    background: url(https://cdn.rawgit.com/jadsonhls/Projeto_TCC/master/lampadaon.png) no-repeat left top;
 }
 
 div.rele1_desligado {
@@ -44,7 +44,7 @@ div.rele1_desligado {
     width: 300px;
     height: 206px;
     border: none;
-	background: url(https://cdn.rawgit.com/jadsonhls/Projeto_TCC/master/lampada_apagada.jpg) no-repeat left top;
+	background: url(https://cdn.rawgit.com/jadsonhls/Projeto_TCC/master/lampadaoff.png) no-repeat left top;
 }
 
 div.rele2_ligado {
