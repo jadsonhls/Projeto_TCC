@@ -27,13 +27,13 @@ body {
 }
 
 div.rele1_ligado {
-    position: fixed;
+    /*position: fixed;
     right: -110px;
     top: 150px;
     width: 130px;
     height: 93px;
     border: none;
-    margin:auto;
+    margin:auto;*/
     background: url(https://cdn.rawgit.com/jadsonhls/Projeto_TCC/master/lampada_acesa.jpg) no-repeat right top;
 }
 
