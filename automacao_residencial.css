@@ -34,7 +34,7 @@ div.rele1_ligado {
     height: 93px;
     border: none;
     margin:auto;
-    background: url(https://cdn.rawgit.com/jadsonhls/Projeto_TCC/master/lampada_acesa.jpg) no-repeat left top;
+    background: url(https://cdn.rawgit.com/jadsonhls/Projeto_TCC/master/lampada_acesa.jpg) no-repeat right top;
 }
 
 div.rele1_desligado {
