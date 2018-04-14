@@ -34,7 +34,7 @@ div.rele1_ligado {
     height: 206px;
     border: none;
 		margin:auto;
-    background: url(lampada_ligada.png) no-repeat left top;
+    background: url(http://fernandoportugal.com/wp-content/uploads/2017/11/lampada-acesa.jpg) no-repeat left top;
 }
 
 div.rele1_desligado {
@@ -44,7 +44,7 @@ div.rele1_desligado {
     width: 300px;
     height: 206px;
     border: none;
-	background: url(lampada_desligada.png) no-repeat left top;
+	background: url(http://fernandoportugal.com/wp-content/uploads/2017/11/lampada-apagada.jpg) no-repeat left top;
 }
 
 div.rele2_ligado {
