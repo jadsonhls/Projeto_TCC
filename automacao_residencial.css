@@ -27,9 +27,9 @@ body {
 }
 
 div.rele1_ligado {
-    position: absolute;
+    position: fixed;
     right: -110px;
-    top: 210px;
+    top: 150px;
     width: 130px;
     height: 93px;
     border: none;
@@ -40,7 +40,7 @@ div.rele1_ligado {
 div.rele1_desligado {
     position: absolute;
     right: -110px;
-    top: 220px;
+    top: 150px;
     width: 300px;
     height: 206px;
     border: none;
